@@ -15,3 +15,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=shahnawaz1913k&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <a href="https://leetcode.com/Shahnawaz1913k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Shahnawaz1913k" height="30" width="40" /></a>
+<hr>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahnawaz1913k&" alt="Shahnawaz1913k" /></p>
