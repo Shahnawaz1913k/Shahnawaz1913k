@@ -1,5 +1,8 @@
 ### Hello Geeks, I'm Shahnawaz 👋
 
+<hr>
+<a href="https://github.com/Shahnawaz1913k/github-readme-activity-graph"><img alt="Shahnawaz's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Shahnawaz1913k&theme=react&bg_color=000000&color=AE81CE&line=9644F4&point=FFFFFF&hide_border=true" /></a>  
+<hr>
 
 - 🔭 I’m currently working on ios Devlopment.
 - 🌱 I’m currently learning Swift.
